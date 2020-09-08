@@ -1,0 +1,5 @@
+name: HiroTeam-CustomDrop
+author: HiroTeam-RomainSav
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\RomainSav\DropMain
